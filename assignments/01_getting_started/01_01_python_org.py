@@ -1,4 +1,4 @@
-#I'm starting my python.org assignment
+# Ib'm starting my python.org assignment
 #I didn't know that python had in person event
 #I find it interesting that python is used in places like tawin
 #The fact that python can be used with any type of laptop
